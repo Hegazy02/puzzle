@@ -1,3 +1,3 @@
 # puzzle
 
-##Simple Puzzle app
+## Simple Puzzle app
